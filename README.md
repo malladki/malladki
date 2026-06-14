@@ -81,4 +81,4 @@ I build AI/ML systems that move from prototype to production — and I lead the 
 
 ---
 
-<p align="center"><i>Open to AI/ML Engineering Lead, MLOps Lead, and GenAI/Agentic AI Lead roles — let's connect!</i></p># malladiki
+<p align="center"><i>Open to AI/ML Engineering Lead, MLOps Lead, and GenAI/Agentic AI Lead roles — let's connect!</i></p>
